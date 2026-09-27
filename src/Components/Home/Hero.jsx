@@ -68,10 +68,10 @@ const Hero = () => {
   };
 
   return (
-    <div className="min-h-screen bg-gray-100 font-sans text-gray-800 relative">
+    <div className="min-h-screen  font-sans text-gray-800 relative">
 
       {/* HERO SECTION */}
-      <section className="relative min-h-[88vh] flex items-center justify-center overflow-hidden">
+      <section className="relative h-[100%] flex items-center justify-center overflow-hidden">
 
         {/* TIGER VIDEO BACKGROUND */}
         <video

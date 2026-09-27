@@ -3,7 +3,7 @@ import { FaLeaf } from 'react-icons/fa';
 
 const VisitZoo = () => {
   return (
-    <section className="bg-white py-12 px-4 sm:px-8 md:px-16 lg:px-20">
+    <section className="bg-white py-2 px-4 sm:px-8 md:px-16 lg:px-20">
       <div className="max-w-7xl mx-auto">
 
         <h1 className="text-[40px] font-extrabold text-green-900 tracking-wide mb-8 uppercase">
